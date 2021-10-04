@@ -26,4 +26,6 @@ public class JavaExample {
 
 //I mage a change
 //I mage a change
+//I mage a change
+//I mage a change
 }
