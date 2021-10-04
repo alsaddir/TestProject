@@ -22,10 +22,12 @@ public class JavaExample {
  //////comment
  // MAk
   //skjdsjk
+//I mage a change
+//I mage a change
+//I mage a change
+//I mage a change
 
+ 
+ //from main
 
-//I mage a change
-//I mage a change
-//I mage a change
-//I mage a change
 }
