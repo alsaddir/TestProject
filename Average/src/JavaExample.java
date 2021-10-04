@@ -22,4 +22,6 @@ public class JavaExample {
  //////comment
  // MAk
   //skjdsjk
+ 
+ //from main
 }
